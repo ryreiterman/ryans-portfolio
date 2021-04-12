@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ryans-portfolio/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/ryans-portfolio/static/js/main.bcdf038b.chunk.js",
+    "main.js.map": "/ryans-portfolio/static/js/main.bcdf038b.chunk.js.map",
+    "runtime-main.js": "/ryans-portfolio/static/js/runtime-main.0c11fb67.js",
+    "runtime-main.js.map": "/ryans-portfolio/static/js/runtime-main.0c11fb67.js.map",
+    "static/js/2.8fc1f0bb.chunk.js": "/ryans-portfolio/static/js/2.8fc1f0bb.chunk.js",
+    "static/js/2.8fc1f0bb.chunk.js.map": "/ryans-portfolio/static/js/2.8fc1f0bb.chunk.js.map",
+    "static/js/3.4ac0e3bf.chunk.js": "/ryans-portfolio/static/js/3.4ac0e3bf.chunk.js",
+    "static/js/3.4ac0e3bf.chunk.js.map": "/ryans-portfolio/static/js/3.4ac0e3bf.chunk.js.map",
+    "index.html": "/ryans-portfolio/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/ryans-portfolio/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.8fc1f0bb.chunk.js.LICENSE.txt": "/ryans-portfolio/static/js/2.8fc1f0bb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ryans-portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c11fb67.js",
+    "static/js/2.8fc1f0bb.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.bcdf038b.chunk.js"
+  ]
+}
