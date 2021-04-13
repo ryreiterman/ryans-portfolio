@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Quicksand&display=swap');
+
+
 .App {
   
 }
@@ -9,16 +12,14 @@
   margin-bottom: 1em;
 }
 
-.header-h1 {
-
-  
+.header-h1, .header-contact {
+  font-family: 'Quicksand', sans-serif;
 }
 
 .header-contact {
   display: flex;
   align-items: center;
   margin-left: auto;
-  
 }
 
 ul {
