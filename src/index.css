@@ -1,6 +1,15 @@
 body {
   width: 100vw;
   height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  box-shadow: 5px 5px 8px #333333;
+  width: 600px;
+  height: auto;
+  object-fit: cover;
 }
 
 
@@ -15,11 +24,13 @@ body {
 } 
 
 .project-row > div {
-  padding: 3em;
+  padding: 2em;
 } 
 
 .project-container .project-row:nth-child(2n+1) {
   flex-direction: row-reverse;
-  border: 3px solid #ebebeb;
   border-radius: 1em;
+  background-color: #ebebeb;
+  color: #4d4d4d;
 }
+
