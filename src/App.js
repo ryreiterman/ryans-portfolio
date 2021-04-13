@@ -7,6 +7,7 @@ function App(props) {
     <>
       <div className="header-container">
         <h1 className="header-h1">Ryan Reiterman</h1>
+        {/* <div className="header-title">Software Engineer</div> */}
         <ul className="header-contact">
           <li>
             <a href="mailto:ryreiterman@gmail.com">ryreiterman@gmail.com</a>

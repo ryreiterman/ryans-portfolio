@@ -12,8 +12,18 @@
   margin-bottom: 1em;
 }
 
-.header-h1, .header-contact {
+.header-h1, .header-contact, .header-title {
   font-family: 'Quicksand', sans-serif;
+}
+
+.header-h1 {
+  margin-right: auto;
+}
+
+.header-title {
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
 }
 
 .header-contact {
