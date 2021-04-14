@@ -156,6 +156,39 @@ const Projects = () => {
               </p>
             </div>
           </div>
+          <div className="project-row">
+            <div className="project-image">
+              <img
+                src="https://res.cloudinary.com/ryanphotos/image/upload/v1618365842/demos/group_project_screenshot_600px_z9wcly.jpg"
+                alt="Project screenshot"
+              />
+            </div>
+            <div className="project-text">
+              <h3>Group Project: Tweeter</h3>
+              <p>
+                Worked with a group of fellow students to build a full-stack
+                application modeled after Twitter.
+              </p>
+              <p>
+                Github Repo
+                <br />
+                <a
+                  target="new"
+                  href="https://github.com/ryreiterman/tweeter-ui"
+                >
+                  github.com/ryreiterman/tweeter-ui
+                </a>
+              </p>
+
+              <p>
+                Project Link
+                <br />
+                <a target="new" href="https://tweeter-ui-goat.herokuapp.com/">
+                  tweeter-ui-goat.herokuapp.com
+                </a>
+              </p>
+            </div>
+          </div>
         </div>
       </>
     );

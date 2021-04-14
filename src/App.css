@@ -9,7 +9,7 @@
   display: flex;
   padding: 0 .75em;
   /* border-bottom: .5px solid #333333; */
-  margin-bottom: 1em;
+  margin-bottom: 1em; 
 }
 
 .header-h1, .header-contact, .header-title {
@@ -32,6 +32,14 @@
   margin-left: auto;
 }
 
+.header-contact a {
+  color: #386fa4;
+}
+
+.header-contact a:hover {
+  color: #cc8500;
+}
+
 ul {
   list-style-type: none;
 }
@@ -52,8 +60,8 @@ li {
   color: white;
 }
 
-.App-link {
+/* .App-link {
   color: #61dafb;
-}
+} */
 
 
